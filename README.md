@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Suraj Vishwakarma</h1>
 <h3 align="center">Python || Javascript Developer</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vishwakarmasuraj&label=Profile%20views&color=0e75b6&style=flat" alt="vishwakarmasuraj" /> </p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
