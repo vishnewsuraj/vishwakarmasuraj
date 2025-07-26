@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Suraj Vishwakarma</h1>
-<h3 align="center">Python || Javascript Developer</h3>
+<h3 align="center">Software Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishwakarmasuraj&label=Profile%20views&color=0e75b6&style=flat" alt="vishwakarmasuraj" /> </p>
 <img src="https://phoneky.co.uk/thumbs/screensavers/down/computer/hacker_uGThpFPb.gif">
